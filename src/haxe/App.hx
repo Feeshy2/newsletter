@@ -71,7 +71,7 @@ private function isValidEmail(email:String):Bool {
 private function checkElement(item:String):ReactElement {
     return jsx('
         <div className="checkelement">
-            <img src="/icon-list.svg" width="50" height="50" />
+            <img src="icon-list.svg" width="50" height="50" />
             <p>${item}</p>
         </div>
     ');
@@ -138,7 +138,7 @@ function Signup(props:{parent:App}):ReactElement {
             </div>
             
             <div className="right">
-                <img src="/illustration-sign-up-desktop.svg" height="600px" />
+                <img src="illustration-sign-up-desktop.svg" height="600px" />
             </div>
         </div>
     ');
@@ -155,7 +155,7 @@ function Thank(props:{parent:App}):ReactElement {
     return jsx('
         <div className="thanks">
             <div>
-                <div><img src="/icon-success.svg" /></div>
+                <div><img src="icon-success.svg" /></div>
                 <h1>Thanks for subscribing!</h1>
                 <p>
                     A confirmation email has been sent to <span>${App.email}</span>
