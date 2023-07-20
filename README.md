@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-This repository contains an implementation of the QR Code Component, originally part of a Frontend Mentor challenge. Unlike the original version, this version has been developed using the Haxe programming language instead of relying purely on HTML and CSS.
+This repository contains an implementation of the QR Code Component, originally part of a Frontend Mentor challenge. Unlike the original version, this version has been developed using the Haxe programming language instead of relying purely on HTML, JS, and CSS.
 
 # Haxe Prerequisites
 
